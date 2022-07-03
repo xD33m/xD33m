@@ -1,4 +1,5 @@
 ### Hi there 👋
+This is my private github account. It's only used for projects done in my free time!
 
 <a href="https://github.com/xD33m">
   <img align="center" width="49%" src="./header.svg" />
