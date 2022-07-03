@@ -25,4 +25,3 @@
 <a href="https://github.com/xD33m">
     <img align="center" width="49%" src="./achievements.svg" />
 </a>
-![xD33m's github stats](https://github-readme-stats-git-master-lucaskeller.vercel.app/api?username=xD33m&show_icons=true&hide=stars,contribs)
