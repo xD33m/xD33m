@@ -1,10 +1,10 @@
 name: Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  # Schedule updates (each day)
+  schedule: [{cron: "0 0 * * *"}]
   # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
-  push: {branches: ["main"]}
+  push: {branches: ["main", "master"]}
 
 jobs:
 
@@ -48,7 +48,7 @@ jobs:
           filename: lines-of-code.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: "repositories"
+          base: repositories
           plugin_lines: yes
 
   acti_comm:
@@ -65,7 +65,7 @@ jobs:
           # Options
           user: xD33m
           template: classic
-          base: activity, community
+          base: activity
           config_timezone: Europe/Paris
           
   iso_calender:
@@ -101,7 +101,7 @@ jobs:
           template: classic
           plugin_habits: yes
           plugin_habits_from: 200       # Use 200 events to compute habits
-          plugin_habits_days: 14        # Keep only events from last 14 days
+          plugin_habits_days: 30        # Keep only events from last 14 days
           plugin_habits_charts: yes     # Display charts section
           plugin_habits_trim: yes       # Trim unused hours on daily chart
 
