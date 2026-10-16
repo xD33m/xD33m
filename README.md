@@ -1,6 +1,6 @@
 # Lucas Keller
 
-Full-stack developer (TypeScript, Python, Go) moving into **automation, DevOps and AI engineering**.
+Full-stack developer moving into **automation, DevOps and AI engineering**.
 I build small self-hosted services, the CI/CD that ships them to a Raspberry Pi, and LLM features with cost limits.
 
 **Currently:** a self-hosted job-search pipeline with an LLM provider layer, a monthly AI budget and change-aware CI — [case study](https://github.com/xD33m/job-search-case-study).
