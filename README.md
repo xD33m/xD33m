@@ -1,28 +1,19 @@
-### Hi there! <img width="3%" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" />
-This is my private github account. It's only used for projects done in my free time!
+# Lucas Keller
 
-<a href="https://github.com/xD33m">
-  <img align="center" width="49%" src="./header.svg" />
-</a>
-<br/>
-<a href="https://github.com/xD33m">
-  <img align="center" width="49%" src="./repositories.svg" />
-</a>
-<a href="https://github.com/xD33m">
-  <img align="center" width="49%" src="./acti_comm.svg" />
-</a>
+Full-stack developer (TypeScript, Python, Go) moving into **automation, DevOps and AI engineering**.
+I build small self-hosted services, the CI/CD that ships them to a Raspberry Pi, and LLM features with cost limits.
 
-<a href="https://github.com/xD33m">
-  <img align="center" width="49%" src="./iso_calender.svg" />
-</a>
+**Currently:** a self-hosted job-search pipeline with an LLM provider layer, a monthly AI budget and change-aware CI — [case study](https://github.com/xD33m/job-search-case-study).
 
-<a href="https://github.com/xD33m">
-    <img align="center" width="49%" src="./issue_pr_lang.svg" />
-</a>
+### Selected work
 
-<a href="https://github.com/xD33m">
-  <img align="center" width="49%" src="./github-habits.svg" />
-</a>
-<a href="https://github.com/xD33m">
-    <img align="center" width="49%" src="./achievements.svg" />
-</a>
+- [westwing-notif](https://github.com/xD33m/westwing-notif) — price watcher with ntfy push alerts; Go, ~7 MB scratch image, tested, runs on a Pi
+- [homelab](https://github.com/xD33m/homelab) — my self-hosted Raspberry Pi setup as code: 17 Compose stacks (Traefik, Cloudflare Tunnel, CrowdSec, Prometheus/Loki/Grafana), validated in CI
+- [gh-release-notifier](https://github.com/xD33m/gh-release-notifier) — GitHub release alerts to Telegram/Discord; multi-arch Docker image built in CI
+- [imax-seats](https://github.com/xD33m/imax-seats) — cinema showtime watcher posting to Discord; pytest, Docker Compose
+- [tizentube-rebrander](https://github.com/xD33m/tizentube-rebrander) — scripts that patch, sign and ADB-install Android TV streaming clients
+- [floating_twitch_chat](https://github.com/xD33m/floating_twitch_chat) — Chrome extension (Manifest V3) overlaying Twitch chat on fullscreen video; maintained since 2021
+
+**Stack:** TypeScript · React · Node · Python · Go · Docker · GitHub Actions (incl. self-hosted arm64 runners) · Traefik · LLM APIs
+
+**Contact:** [lucaskeller98@gmail.com](mailto:lucaskeller98@gmail.com)
