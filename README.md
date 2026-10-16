@@ -7,6 +7,7 @@ I build small self-hosted services, the CI/CD that ships them to a Raspberry Pi,
 
 ### Selected work
 
+- [Watchtime Tracker](https://chromewebstore.google.com/detail/watchtime-tracker/boabmhiakmbbkgjcekpmbihapljoaioc) — Chrome extension with **10,000 users** tracking watch time on YouTube and Twitch; TypeScript, Manifest V3, CI publishes to the Chrome Web Store; maintained since 2020 (code private)
 - [westwing-notif](https://github.com/xD33m/westwing-notif) — price watcher with ntfy push alerts; Go, ~7 MB scratch image, tested, runs on a Pi
 - [homelab](https://github.com/xD33m/homelab) — my self-hosted Raspberry Pi setup as code: 17 Compose stacks (Traefik, Cloudflare Tunnel, CrowdSec, Prometheus/Loki/Grafana), validated in CI
 - [gh-release-notifier](https://github.com/xD33m/gh-release-notifier) — GitHub release alerts to Telegram/Discord; multi-arch Docker image built in CI
