@@ -17,4 +17,4 @@ I build small self-hosted services, the CI/CD that ships them to a Raspberry Pi,
 
 **Stack:** TypeScript · React · Node · Python · Go · Docker · GitHub Actions (incl. self-hosted arm64 runners) · Traefik · LLM APIs
 
-**Contact:** [lucaskeller98@gmail.com](mailto:lucaskeller98@gmail.com)
+**Contact:** [lucaskeller98@gmail.com](mailto:lucaskeller98@gmail.com) · [LinkedIn](https://www.linkedin.com/in/lucas-keller-113659213) · Stuttgart, remote/hybrid
