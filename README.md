@@ -16,7 +16,7 @@ I build small self-hosted services, the CI/CD that ships them to a Raspberry Pi,
 
 **Stack**
 
-<img src="https://skillicons.dev/icons?i=ts,react,angular,nodejs,python,go,swift,docker,githubactions,linux,raspberrypi,cloudflare,grafana,firebase" alt="TypeScript, React, Angular, Node.js, Python, Go, Swift, Docker, GitHub Actions, Linux, Raspberry Pi, Cloudflare, Grafana, Firebase" />
+<img src="https://skillicons.dev/icons?i=ts,react,angular,python,go,swift,docker,githubactions,linux,raspberrypi,cloudflare,grafana,firebase" alt="TypeScript, React, Angular, Python, Go, Swift, Docker, GitHub Actions, Linux, Raspberry Pi, Cloudflare, Grafana, Firebase" />
 
 Plus Traefik, self-hosted arm64 runners and LLM APIs.
 
