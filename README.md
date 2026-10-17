@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:205f5a,100:6cc4ba&height=100&section=header&text=Lucas%20Keller&fontSize=30&fontColor=ffffff&fontAlignY=30" alt="Lucas Keller" width="100%" />
-
 Full-stack developer moving into **automation, DevOps and AI engineering**.
 I build small self-hosted services, the CI/CD that ships them to a Raspberry Pi, and LLM features with cost limits.
 
