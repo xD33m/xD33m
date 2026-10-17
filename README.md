@@ -1,4 +1,4 @@
-# Lucas Keller
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:205f5a,100:6cc4ba&height=150&section=header&text=Lucas%20Keller&fontSize=48&fontColor=ffffff&fontAlignY=38" alt="Lucas Keller" width="100%" />
 
 Full-stack developer moving into **automation, DevOps and AI engineering**.
 I build small self-hosted services, the CI/CD that ships them to a Raspberry Pi, and LLM features with cost limits.
@@ -15,6 +15,10 @@ I build small self-hosted services, the CI/CD that ships them to a Raspberry Pi,
 - [tizentube-rebrander](https://github.com/xD33m/tizentube-rebrander) — scripts that patch, sign and ADB-install Android TV streaming clients
 - [floating_twitch_chat](https://github.com/xD33m/floating_twitch_chat) — Chrome extension (Manifest V3) overlaying Twitch chat on fullscreen video; maintained since 2021
 
-**Stack:** TypeScript · React · Node · Python · Go · Docker · GitHub Actions (incl. self-hosted arm64 runners) · Traefik · LLM APIs
+**Stack**
+
+<img src="https://skillicons.dev/icons?i=ts,react,nodejs,python,go,docker,githubactions,linux,raspberrypi,cloudflare,grafana,firebase" alt="TypeScript, React, Node.js, Python, Go, Docker, GitHub Actions, Linux, Raspberry Pi, Cloudflare, Grafana, Firebase" />
+
+Plus Traefik, self-hosted arm64 runners and LLM APIs.
 
 **Contact:** [lucaskeller98@gmail.com](mailto:lucaskeller98@gmail.com) · [LinkedIn](https://www.linkedin.com/in/lucas-keller-113659213) · Stuttgart, remote/hybrid
